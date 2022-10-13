@@ -1,0 +1,43 @@
+{
+  "titulo": "Las 10 fases de Goku",
+  "descripcion": "Las increibles fases de goku mostradas en este video",
+  "fecha": "2009-07-11",
+  "usuario": {
+    "nombre": "Goku Santiago",
+    "email": "goku777@gmail.com",
+    "apodo": "gokufasedios",
+    "fechaNacimiento": "2005-04-03"
+  },
+  "comentarios": [
+    {
+      "contenido": "Que buen video",
+      "fecha": "2021-10-08",
+      "autor": {
+        "nombre": "Rodolfo Medina",
+        "email": "rodolfoelreno@gmail.com",
+        "apodo": "rodo",
+        "fechaNacimiento": "1997-08-01"
+      }
+    },
+    {
+      "contenido": "No lo puedo creer",
+      "fecha": "2021-10-08",
+      "autor": {
+        "nombre": "Ernesto Lopez",
+        "email": "ernepe@gmail.com",
+        "apodo": "Erne",
+        "fechaNacimiento": "1995-12-01"
+      }
+    },
+    {
+      "contenido": "Me encanto",
+      "fecha": "2021-10-08",
+      "autor": {
+        "nombre": "Juan Perez",
+        "email": "juape@gmail.com",
+        "apodo": "juape",
+        "fechaNacimiento": "1995-12-01"
+      }
+    }
+  ]
+}
